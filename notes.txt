@@ -1,0 +1,2 @@
+ionic start devLogin blank --type=angular
+npm install --save @ionic/storage
